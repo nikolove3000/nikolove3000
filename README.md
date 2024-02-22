@@ -1,3 +1,8 @@
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&weight=900&size=40&pause=1050&color=7852A9&background=4EFFCB00&random=false&width=438&lines=Just+a+random+programmer;That+love+niko+from+oneshot)](https://git.io/typing-svg)
+
+
 # 💫About Me :
 ```
 github/nikolove3000
