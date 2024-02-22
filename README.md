@@ -1,11 +1,12 @@
 # 💫About Me :
+```
 github/nikolove3000
 -------------------------
--🛠   I’m primarily working with Javascript, Java, React, ReactNative, Typescript,... and so more to learn.
--👾  Cool fact: Niko in the game "Oneshot" is the cutest thing i ever saw 💖💖💖.
--📫   Reach me out: mynamelathanh193@gmail.com.
+🛠   I’m primarily working with Javascript, Java, React, ReactNative, Typescript,... and so more to learn.
+👾  Cool fact: Niko in the game "Oneshot" is the cutest thing i ever saw 💖💖💖.
+📫   Reach me out: mynamelathanh193@gmail.com.
 -P/s: from 🇻🇳⭐ with 💖
-
+```
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nikolove333/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suynhungkhongsuy) 
 
